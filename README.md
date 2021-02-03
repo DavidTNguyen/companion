@@ -1,0 +1,2 @@
+# companion
+BitFocus Companion Config
